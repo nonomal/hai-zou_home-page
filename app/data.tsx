@@ -8,7 +8,7 @@ export const displayList: Array<AllCard> = [
   {
     id: nanoid(),
     type: 'user',
-    avatar: 'https://imgs.izou.top/user/avatar.jpg',
+    avatar: 'https://imgs.izou.top/images/userInfo/avatar.jpg',
     name: 'A Mortal',
     social: [
       {
